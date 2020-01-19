@@ -31,7 +31,7 @@ markdown: kramdown
 # theme: jekyll-theme-modernist
 # remote_theme: thelehhman/texture
 remote_theme: "mmistakes/jekyll-theme-basically-basic"
-theme: jekyll-theme-basically-basic
+theme: jekyll-theme-cayman
 # theme: texture
 # theme: jekyll-text-theme
 highlighter: rouge
